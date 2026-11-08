@@ -8,3 +8,5 @@ Telepítés: a ZIP teljes tartalmát töltsd fel a GLITCH.exe GitHub repository 
 
 
 v1.6: Kiemelt Diary kép, három képes friss akta, lapozható öt Glitch üzenet.
+
+V1.7: Kiemelt akta teljes magasságú borítókép (csak CSS javítás).
