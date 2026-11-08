@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ejjeli-urbex",
+    "number": "001",
+    "date": "2026-11-08",
+    "title": "ÉJSZAKAI URBEX",
+    "excerpt": "Mi lehet a legrosszabb, ami történhet egy elhagyatott raktárban?",
+    "cover": "assets/ideas-poster.svg",
+    "category": "Kihívás",
+    "location": "Los Santos",
+    "status": "Ötlet",
+    "note": "„Ha nappal ijesztő, éjjel biztos jobb.”",
+    "paragraphs": [
+      "Ötletvázlat egy jövőbeli RP-kalandhoz. A megvalósítás után átkerülhet a Glitch Diaryba és az Urbex Filesba."
+    ],
+    "gallery": [],
+    "sample": true
+  },
+  {
+    "id": "motoros-mutatvany",
+    "number": "002",
+    "date": "2026-11-07",
+    "title": "MOTOROS MUTATVÁNY",
+    "excerpt": "Egy rámpa. Egy motor. Nulla józan ész.",
+    "cover": "assets/ideas-poster.svg",
+    "category": "Stunt",
+    "location": "Los Santos",
+    "status": "Ötlet",
+    "note": "„A landolást majd menet közben kitaláljuk.”",
+    "paragraphs": [
+      "Csak játékbeli, RP-s kihívásötlet."
+    ],
+    "gallery": [],
+    "sample": true
+  },
+  {
+    "id": "kutyu-teszt",
+    "number": "003",
+    "date": "2026-11-06",
+    "title": "ISMERETLEN KÜTYÜ TESZT",
+    "excerpt": "Előbb kapcsoljuk be. Utána kérdezzük meg, mire való.",
+    "cover": "assets/ideas-poster.svg",
+    "category": "Kísérlet",
+    "location": "Glitch Lab",
+    "status": "Ötlet",
+    "note": "„Ha villog, valamit biztos csinál.”",
+    "paragraphs": [
+      "Kísérleti ötletvázlat, amely később Glitch Lab-projekt lehet."
+    ],
+    "gallery": [],
+    "sample": true
+  }
+]

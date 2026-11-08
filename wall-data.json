@@ -1,0 +1,42 @@
+[
+  {
+    "id": "glitch-was-here",
+    "number": "001",
+    "date": "2026-11-08",
+    "title": "GLITCH WAS HERE",
+    "excerpt": "Egy név a falon. Egy kérdés a városnak.",
+    "cover": "assets/wall-poster.svg",
+    "category": "Graffiti",
+    "location": "Los Santos / ismeretlen fal",
+    "status": "Vázlat",
+    "note": "„Nem rongálás. Vizuális hibajelentés.”",
+    "paragraphs": [
+      "Egy lila festéknyom. Egy jel, amit a járókelők vagy észrevesznek, vagy nem.",
+      "Ez a mintaakta később egy valódi RP-s graffitifotó és annak története lesz."
+    ],
+    "gallery": [
+      {
+        "src": "assets/wall-poster.svg",
+        "caption": "Koncepciókép – helyettesítsd saját fotóval."
+      }
+    ],
+    "sample": true
+  },
+  {
+    "id": "ejjeli-tag",
+    "number": "002",
+    "date": "2026-11-07",
+    "title": "ÉJJELI TAG",
+    "excerpt": "A város alszik. A festék nem.",
+    "cover": "assets/wall-poster.svg",
+    "category": "Street art",
+    "location": "Los Santos",
+    "status": "Tervezett",
+    "note": "„A fal legalább nem szakít félbe.”",
+    "paragraphs": [
+      "Késő esti városi firkálás, egyelőre csak történetvázlat."
+    ],
+    "gallery": [],
+    "sample": true
+  }
+]

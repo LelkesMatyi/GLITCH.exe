@@ -1,0 +1,3 @@
+.crew-intro{background:radial-gradient(circle at 80% 20%,#a43c8b44,transparent 38%),linear-gradient(135deg,#27102e,#100c18 75%)}
+.crew-page .diary-entry:hover{transform:translateY(-5px) rotate(-1deg)}
+.crew-facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin:24px 0}.crew-facts>div{padding:15px;border:1px solid #6f3c83;background:#24132d}.crew-facts small{display:block;color:#d29bdf;margin-bottom:7px}.crew-facts strong{font-size:15px}

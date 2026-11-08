@@ -1,0 +1,42 @@
+[
+  {
+    "id": "glitch",
+    "number": "001",
+    "date": "2026-11-08",
+    "title": "GLITCH",
+    "excerpt": "A káosz felelőse. Legalábbis papíron.",
+    "cover": "assets/crew-poster.svg",
+    "category": "Alapító / bajkeverő",
+    "location": "Los Santos",
+    "status": "Aktív",
+    "note": "„Én csak adtam egy ötletet. Ti mondtátok, hogy csináljuk meg.”",
+    "paragraphs": [
+      "Kütyümániás, vakmerő, pimasz. Ha valahol túl nagy a csend, hamarosan történik valami.",
+      "A nyilvános profil kizárólag a Glitch becenevet használja. A valódi személyazonosság nem szerepel a weboldalon."
+    ],
+    "gallery": [
+      {
+        "src": "assets/crew-poster.svg",
+        "caption": "Ide kerülhet egy karakterfotó."
+      }
+    ],
+    "sample": true
+  },
+  {
+    "id": "ismeretlen-tag",
+    "number": "002",
+    "date": "2026-11-07",
+    "title": "??? / TITKOSÍTOTT PROFIL",
+    "excerpt": "Új tag profilja előkészítve. A név még nincs nyilvánosságra hozva.",
+    "cover": "assets/crew-poster.svg",
+    "category": "Crew tag",
+    "location": "Ismeretlen",
+    "status": "Adatokra vár",
+    "note": "„Majd bemutatkozik. Vagy nem.”",
+    "paragraphs": [
+      "Helykitöltő adatlap: később becenév, karakterkép, személyiség és közös történetek kerülhetnek ide."
+    ],
+    "gallery": [],
+    "sample": true
+  }
+]

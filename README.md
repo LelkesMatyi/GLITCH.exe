@@ -42,3 +42,12 @@ V1.7: Kiemelt akta teljes magasságú borítókép (csak CSS javítás).
 - lab-data.json: három szerkeszthető minta projekt (nem valódi RP-esemény).
 - lab.js / lab.css: galéria, történetek, státusz és projektadatok.
 - Főoldali LAB linkek és a friss káosz kütyüaktája az új részlegre mutat.
+
+
+## v2.3 – Három új vázlatrészleg
+- wall.html / wall-data.json: graffiti galéria és akták
+- crew.html / crew-data.json: személyi profilok, kizárólag publikus becenevekkel
+- ideas.html / ideas-data.json: ötletarchívum
+- Mindháromhoz külön CSS és JS; a főoldal és a navigáció kattintható linkjei frissítve.
+- Az ötlettábla főoldali szavazása továbbra is csak demó, nem tárol közös eredményeket.
+- A JSON fájlok mintatartalmak, szabadon bővíthetők.
