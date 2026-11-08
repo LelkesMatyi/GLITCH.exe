@@ -9,7 +9,7 @@
     "status": "TESZTELÉS ALATT",
     "owner": "GLITCH",
     "excerpt": "A kapcsoló működik. Hogy pontosan mit kapcsol be, az még kérdés.",
-    "cover": "assets/lab-poster.svg",
+    "cover": "assets/lab-poster.webp",
     "note": "„A használati útmutatót majd a második robbanás után megírom.”",
     "paragraphs": [
       "Ez egy bemutató projektakta. A kütyü tényleges szerepe, építése és RP-története később kerül ide.",
@@ -17,7 +17,7 @@
     ],
     "gallery": [
       {
-        "src": "assets/lab-poster.svg",
+        "src": "assets/lab-poster.webp",
         "caption": "MINTAKÉP / cserélhető saját RP-képre"
       }
     ],
@@ -33,7 +33,7 @@
     "status": "KONCEPCIÓ",
     "owner": "GLITCH",
     "excerpt": "Monitorok, kábelek és egy mozgó főhadiszállás. Mi baj lehet?",
-    "cover": "assets/lab-poster.svg",
+    "cover": "assets/lab-poster.webp",
     "note": "„Ha eltűnik a Wi-Fi, legalább van négy kerekünk.”",
     "paragraphs": [
       "Glitch műveleti furgonjának külön projektaktája. A berendezés, a monitorok és a történet részleteit később saját RP-anyagokkal egészítjük ki.",
@@ -41,7 +41,7 @@
     ],
     "gallery": [
       {
-        "src": "assets/lab-poster.svg",
+        "src": "assets/lab-poster.webp",
         "caption": "MINTAKÉP / műveleti terminál"
       }
     ],
@@ -57,7 +57,7 @@
     "status": "ÖTLET",
     "owner": "GLITCH",
     "excerpt": "Egy furcsa szerkezet, amelynek még a neve is változhat.",
-    "cover": "assets/lab-poster.svg",
+    "cover": "assets/lab-poster.webp",
     "note": "„Egyetlen gomb. Három figyelmeztetés. Nyilván megnyomom.”",
     "paragraphs": [
       "Helyőrző a jövőbeli kütyüprojektek számára. A valós RP-eseményeket és a szerkezet működését majd a későbbi fejlesztéskor írjuk be."

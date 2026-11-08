@@ -15,7 +15,7 @@ V1.7: Kiemelt akta teljes magasságú borítókép (csak CSS javítás).
 ## Glitch Diary (v1.9)
 - `diary.html`: naplóarchívum és külön megnyitható bejegyzések.
 - `diary-data.json`: itt adhatók hozzá az új bejegyzések. A `number` mező legyen egyedi, a `date` YYYY-MM-DD formátumú; a `id` is legyen egyedi (pl. akta-002).
-- `cover`: kép elérési útja, pl. `assets/diary-poster.svg`; `gallery`: további képek és képaláírások.
+- `cover`: kép elérési útja, pl. `assets/diary-poster.webp`; `gallery`: további képek és képaláírások.
 - A főoldali Kiemelt akta ugyanebből a fájlból olvassa a legfrissebb bejegyzést.
 - A 001-es akta minta, nem valódi RP-esemény.
 
@@ -54,3 +54,7 @@ V1.7: Kiemelt akta teljes magasságú borítókép (csak CSS javítás).
 
 
 v2.4: A főoldal mind a hét archívumkártyája a Glitch Diaryhoz hasonló alsó, keretezett navigációs gombot kapott.
+
+
+## v2.5 – Új borítóképek
+Hat kategória (Diary, Wall, Garage, Lab, Urbex, Bad Ideas) borítója frissítve, WebP formátumban. A Crew borítója változatlan.

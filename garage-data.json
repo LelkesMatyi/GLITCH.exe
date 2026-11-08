@@ -9,7 +9,7 @@
     "status": "PROJEKTADATLAP",
     "owner": "GLITCH",
     "excerpt": "Egy klasszikus japán hangulatú gép. A részletek még alakulnak.",
-    "cover": "assets/garage-poster.svg",
+    "cover": "assets/garage-poster.webp",
     "note": "„A jó ízlés és a rossz ötletek tökéletes találkozása.”",
     "paragraphs": [
       "Ez a jármű Glitch garázsarchívumának egyik nyitó aktája. A tényleges RP-történet, módosítások és felszereltség később kerülnek ide.",
@@ -17,7 +17,7 @@
     ],
     "gallery": [
       {
-        "src": "assets/garage-poster.svg",
+        "src": "assets/garage-poster.webp",
         "caption": "MINTAKÉP / cserélhető saját járműfotóra"
       }
     ],
@@ -33,7 +33,7 @@
     "status": "PROJEKTADATLAP",
     "owner": "GLITCH",
     "excerpt": "Nyers erő, hangos érkezés, nulla visszafogottság.",
-    "cover": "assets/garage-poster.svg",
+    "cover": "assets/garage-poster.webp",
     "note": "„Diszkrét? Azt a beállítást nem találtam.”",
     "paragraphs": [
       "Ez a jármű Glitch garázsarchívumának egyik nyitó aktája. A tényleges RP-történet, módosítások és felszereltség később kerülnek ide.",
@@ -41,7 +41,7 @@
     ],
     "gallery": [
       {
-        "src": "assets/garage-poster.svg",
+        "src": "assets/garage-poster.webp",
         "caption": "MINTAKÉP / cserélhető saját járműfotóra"
       }
     ],
@@ -57,7 +57,7 @@
     "status": "PROJEKTADATLAP",
     "owner": "GLITCH",
     "excerpt": "A gép, amelynek minden napra jut egy új történet.",
-    "cover": "assets/garage-poster.svg",
+    "cover": "assets/garage-poster.webp",
     "note": "„Nem minden járgánynak kell versenypálya.”",
     "paragraphs": [
       "Ez a jármű Glitch garázsarchívumának egyik nyitó aktája. A tényleges RP-történet, módosítások és felszereltség később kerülnek ide.",
@@ -65,7 +65,7 @@
     ],
     "gallery": [
       {
-        "src": "assets/garage-poster.svg",
+        "src": "assets/garage-poster.webp",
         "caption": "MINTAKÉP / cserélhető saját járműfotóra"
       }
     ],
@@ -81,7 +81,7 @@
     "status": "PROJEKTADATLAP",
     "owner": "GLITCH",
     "excerpt": "Két kerék, poros utak és túl sok kerülő.",
-    "cover": "assets/garage-poster.svg",
+    "cover": "assets/garage-poster.webp",
     "note": "„Ha van rövidebb út, valószínűleg nem azt választom.”",
     "paragraphs": [
       "Ez a jármű Glitch garázsarchívumának egyik nyitó aktája. A tényleges RP-történet, módosítások és felszereltség később kerülnek ide.",
@@ -89,7 +89,7 @@
     ],
     "gallery": [
       {
-        "src": "assets/garage-poster.svg",
+        "src": "assets/garage-poster.webp",
         "caption": "MINTAKÉP / cserélhető saját járműfotóra"
       }
     ],

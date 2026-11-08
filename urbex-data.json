@@ -9,7 +9,7 @@
     "risk": "ISMERETLEN",
     "explorers": "GLITCH + CREW",
     "excerpt": "„Nem volt üres. Vagy csak képzelődtem.”",
-    "cover": "assets/urbex-poster.svg",
+    "cover": "assets/urbex-poster.webp",
     "note": "„Ha a falak beszélni tudnának, valószínűleg azt mondanák: menj haza.”",
     "paragraphs": [
       "A városnak vannak olyan sarkai, amelyek mellett mindenki elmegy. A legtöbben észre sem veszik, hogy valaha történt ott valami.",
@@ -17,7 +17,7 @@
     ],
     "gallery": [
       {
-        "src": "assets/urbex-poster.svg",
+        "src": "assets/urbex-poster.webp",
         "caption": "HELYKITÖLTŐ ILLUSZTRÁCIÓ / később saját RP-fotóra cserélhető"
       }
     ],

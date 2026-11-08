@@ -5,7 +5,7 @@
     "date": "2026-11-08",
     "title": "GLITCH WAS HERE",
     "excerpt": "Egy név a falon. Egy kérdés a városnak.",
-    "cover": "assets/wall-poster.svg",
+    "cover": "assets/wall-poster.webp",
     "category": "Graffiti",
     "location": "Los Santos / ismeretlen fal",
     "status": "Vázlat",
@@ -16,7 +16,7 @@
     ],
     "gallery": [
       {
-        "src": "assets/wall-poster.svg",
+        "src": "assets/wall-poster.webp",
         "caption": "Koncepciókép – helyettesítsd saját fotóval."
       }
     ],
@@ -28,7 +28,7 @@
     "date": "2026-11-07",
     "title": "ÉJJELI TAG",
     "excerpt": "A város alszik. A festék nem.",
-    "cover": "assets/wall-poster.svg",
+    "cover": "assets/wall-poster.webp",
     "category": "Street art",
     "location": "Los Santos",
     "status": "Tervezett",
