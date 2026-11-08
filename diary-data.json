@@ -1,0 +1,25 @@
+[
+  {
+    "id": "akta-001",
+    "number": "001",
+    "date": "DÁTUM NINCS MEGADVA",
+    "category": "GLITCH DIARY",
+    "title": "EZ AZ ÖTLET JOBBNAK TŰNT...",
+    "excerpt": "„Azt mondták, ne menjek be. Ezt én meghívásnak vettem.”",
+    "cover": "assets/diary-poster.svg",
+    "stamp": "TOP SECRET? LOL.",
+    "note": "„A terv egyszerű volt. Ez általában rossz előjel.”",
+    "paragraphs": [
+      "Van az a pillanat, amikor egy teljesen átlagos napból hirtelen történet lesz. Általában pontosan akkor, amikor valaki kimondja: „Szerintem ezt nem kellene.”",
+      "Egy lezárt ajtó, néhány rossz ötlet és a kíváncsiság. Ennyi bőven elég ahhoz, hogy az ember olyan helyen találja magát, ahol elvileg semmi keresnivalója.",
+      "Hogy pontosan mi történt? Az első valódi Los Santos-i kaland után itt lesz a teljes beszámoló, képekkel és a kevésbé vállalható részletekkel együtt."
+    ],
+    "gallery": [
+      {
+        "src": "assets/diary-poster.svg",
+        "caption": "ARCHIVE / 001 — Helykitöltő illusztráció. Később valódi RP-fotóra cserélhető."
+      }
+    ],
+    "sample": true
+  }
+]
