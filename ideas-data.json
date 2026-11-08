@@ -4,12 +4,12 @@
     "number": "001",
     "date": "2026-11-08",
     "title": "ÉJSZAKAI URBEX",
-    "excerpt": "Mi lehet a legrosszabb, ami történhet egy elhagyatott raktárban?",
+    "excerpt": "Egy elhagyatott épület, egy kamera és egy kifejezetten rossz megérzés.",
     "cover": "assets/ideas-poster.webp",
     "category": "Kihívás",
     "location": "Los Santos",
-    "status": "Ötlet",
-    "note": "„Ha nappal ijesztő, éjjel biztos jobb.”",
+    "status": "Tervezett",
+    "note": "„Mi baj történhet? Ne válaszolj.”",
     "paragraphs": [
       "Ötletvázlat egy jövőbeli RP-kalandhoz. A megvalósítás után átkerülhet a Glitch Diaryba és az Urbex Filesba."
     ],
@@ -21,12 +21,12 @@
     "number": "002",
     "date": "2026-11-07",
     "title": "MOTOROS MUTATVÁNY",
-    "excerpt": "Egy rámpa. Egy motor. Nulla józan ész.",
+    "excerpt": "Egy lehetetlennek tűnő ugrás Los Santosban.",
     "cover": "assets/ideas-poster.webp",
     "category": "Stunt",
     "location": "Los Santos",
     "status": "Ötlet",
-    "note": "„A landolást majd menet közben kitaláljuk.”",
+    "note": "„A landolás opcionális.”",
     "paragraphs": [
       "Csak játékbeli, RP-s kihívásötlet."
     ],
@@ -38,12 +38,12 @@
     "number": "003",
     "date": "2026-11-06",
     "title": "ISMERETLEN KÜTYÜ TESZT",
-    "excerpt": "Előbb kapcsoljuk be. Utána kérdezzük meg, mire való.",
+    "excerpt": "Egy szerkezet, aminek még a készítője sem tudja a célját.",
     "cover": "assets/ideas-poster.webp",
     "category": "Kísérlet",
     "location": "Glitch Lab",
     "status": "Ötlet",
-    "note": "„Ha villog, valamit biztos csinál.”",
+    "note": "„Ha világít, már félsiker.”",
     "paragraphs": [
       "Kísérleti ötletvázlat, amely később Glitch Lab-projekt lehet."
     ],

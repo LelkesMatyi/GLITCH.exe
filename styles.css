@@ -79,3 +79,38 @@ body:before{content:"";position:fixed;inset:0;pointer-events:none;z-index:40;opa
 .archive-card .archive-foot + .archive-card-button{margin-top:4px;}
 .archive-card .archive-card-button:hover,.archive-card .archive-card-button:focus-visible{background:#5b246c;}
 @media(max-width:570px){.archive-card .archive-card-button{font-size:16px;}}
+
+/* v2.6 — readable latest news and final Crew cover */
+@media(min-width:851px){
+.dashboard .latest.panel>.news{gap:18px;padding:18px 18px;}
+.dashboard .latest .thumb{width:145px;min-width:145px;height:92px;display:block;}
+.dashboard .latest .news>span:last-child{gap:6px;min-width:0;}
+.dashboard .latest .news strong{font-size:clamp(23px,1.7vw,29px);line-height:1.08;}
+.dashboard .latest .news small{font-size:12px;line-height:1.3;}
+.dashboard .latest .news em{font-size:clamp(17px,1.15vw,20px);line-height:1.2;}
+}
+@media(min-width:571px) and (max-width:850px){
+.dashboard .latest .thumb{width:125px;min-width:125px;height:82px;}
+.dashboard .latest .news strong{font-size:24px;}
+.dashboard .latest .news small{font-size:12px;}
+.dashboard .latest .news em{font-size:17px;}
+}
+@media(max-width:570px){
+.dashboard .latest .news{gap:12px;padding:14px 12px;}
+.dashboard .latest .thumb{width:105px;min-width:105px;height:75px;}
+.dashboard .latest .news strong{font-size:21px;}
+.dashboard .latest .news small{font-size:11px;}
+.dashboard .latest .news em{font-size:16px;}
+}
+
+/* v2.7 — Bad Ideas Board: Glitch személyes, nem szavazós tervtáblája */
+.archive-card.ideas .idea-preview-heading{display:flex;justify-content:space-between;gap:12px;align-items:center;border-top:1px dashed #885596;padding-top:17px;margin-top:20px;font:12px 'Roboto Mono',monospace;color:#dba9ee}
+.archive-card.ideas .idea-preview-heading strong{color:#e8c5f2;font-size:11px}
+.archive-card.ideas .idea-preview-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:15px}
+.archive-card.ideas .idea-preview-card{display:flex;flex-direction:column;gap:10px;min-height:210px;background:linear-gradient(150deg,#392344,#1b1223);border:1px solid #845092;padding:18px;transition:transform .2s,border-color .2s}
+.archive-card.ideas .idea-preview-card:hover{transform:translateY(-4px) rotate(-.4deg);border-color:#dc8bff;background:#43254f}
+.archive-card.ideas .idea-preview-status{align-self:flex-start;padding:5px 9px;background:#5e2d72;color:#f5d8ff;font:11px 'Roboto Mono',monospace;letter-spacing:.7px}
+.archive-card.ideas .idea-preview-card>strong{font-size:25px;line-height:1.05}
+.archive-card.ideas .idea-preview-card>p{font-size:17px;line-height:1.35;color:#e4d5ea;margin:0}
+.archive-card.ideas .idea-preview-card>em{font:italic 12px/1.5 'Roboto Mono',monospace;color:#d69ef0;margin-top:auto}
+@media(max-width:850px){.archive-card.ideas .idea-preview-grid{grid-template-columns:1fr}.archive-card.ideas .idea-preview-card{min-height:0}}

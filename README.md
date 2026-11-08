@@ -58,3 +58,12 @@ v2.4: A főoldal mind a hét archívumkártyája a Glitch Diaryhoz hasonló als�
 
 ## v2.5 – Új borítóképek
 Hat kategória (Diary, Wall, Garage, Lab, Urbex, Bad Ideas) borítója frissítve, WebP formátumban. A Crew borítója változatlan.
+
+
+## v2.6
+- Legfrissebb Káosz: nagyobb képek és szövegek, mobilra méretezve.
+- The Crew: végleges kezdeti borító a felhasználó által küldött képpel.
+- Minden más részleg és működés változatlan.
+
+
+v2.7: Bad Ideas Board főoldali szavazás helyett három kattintható tervkártya; ötletarchívum megmaradt. Minden tartalom mintaterv, nem megtörtént RP.
