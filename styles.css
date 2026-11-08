@@ -48,3 +48,10 @@ body:before{content:"";position:fixed;inset:0;pointer-events:none;z-index:40;opa
 .category-strip b svg{width:32px;height:32px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 .category-strip a:hover b{filter:drop-shadow(0 0 9px rgba(210,88,255,.85));transform:scale(1.08)}
 @media(max-width:650px){.category-strip b svg{width:23px;height:23px}}
+
+/* v1.6 — photo-led news and browsable Glitch messages */
+.feature-cover-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:brightness(.68) saturate(1.15)}
+.feature-image:after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(9,5,15,.96),transparent 73%);pointer-events:none}
+.feature-stamp,.feature-copy{z-index:1}
+.thumb{overflow:hidden}.thumb img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .25s}.news:hover .thumb img{transform:scale(1.08)}
+.mini{display:flex;flex-direction:column}.mini blockquote{flex:1;min-height:100px;margin-bottom:6px}.mini .panel-label span{font:11px 'Roboto Mono',monospace;color:#e9c4f5}.quote-controls{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:0 15px 16px}.quote-controls>button{border:1px solid #9156a7;background:#2c1936;color:#f5d7ff;padding:8px 12px;cursor:pointer;font-size:17px}.quote-controls>button:hover,.quote-controls>button:focus-visible{background:#78318e;outline:2px solid #d38df4;outline-offset:2px}.quote-dots{display:flex;gap:8px;align-items:center}.quote-dots button{width:9px;height:9px;border-radius:50%;border:1px solid #ba76d1;background:#5a3a68;padding:0;cursor:pointer}.quote-dots button[aria-current="true"]{background:#e49bff;box-shadow:0 0 8px #d16df3}
