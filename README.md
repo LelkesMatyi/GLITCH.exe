@@ -35,3 +35,10 @@ V1.7: Kiemelt akta teljes magasságú borítókép (csak CSS javítás).
 - garage.js / garage.css: megjelenítés, galéria és stílus.
 - A járművek története és fotói szándékosan minták; cseréld őket saját RP-tartalomra.
 - A főoldali garázslinkek már az új részlegre vezetnek.
+
+
+## v2.2 – GLITCH LAB
+- lab.html: kísérleti projektarchívum és megnyitható akták.
+- lab-data.json: három szerkeszthető minta projekt (nem valódi RP-esemény).
+- lab.js / lab.css: galéria, történetek, státusz és projektadatok.
+- Főoldali LAB linkek és a friss káosz kütyüaktája az új részlegre mutat.

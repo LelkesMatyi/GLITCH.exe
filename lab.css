@@ -1,0 +1,13 @@
+/* GLITCH LAB / v2.2 */
+.lab-intro{background:radial-gradient(ellipse at 80% 20%,rgba(188,55,210,.21),transparent 56%),linear-gradient(125deg,#1a1123,#100b16 65%)}
+.lab-intro .diary-intro-stamp{transform:rotate(10deg);color:#f3b1ff;border-color:#ad57ce}
+.lab-page .diary-entry-tape{background:#8d39b7;color:#fff}
+.lab-page .diary-article-cover img{object-fit:cover}
+.lab-page .urbex-facts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:20px 0}
+.lab-page .urbex-facts>div{background:#21152a;border:1px solid #583467;padding:16px;min-width:0}
+.lab-page .urbex-facts small{display:block;color:#b892cc;font-size:11px;letter-spacing:1px;margin-bottom:6px}
+.lab-page .urbex-facts strong{overflow-wrap:anywhere;font-size:13px}
+@media(max-width:700px){.lab-page .urbex-facts{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+.lab-intro{background:radial-gradient(ellipse at 70% 10%,rgba(98,65,211,.25),transparent 55%),linear-gradient(125deg,#181020,#0c101b 70%)}
+.lab-page .diary-entry-tape{background:#6446b9}

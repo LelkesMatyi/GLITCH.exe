@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ismeretlen-kutyu-v1",
+    "number": "001",
+    "date": "DÁTUM NINCS MEGADVA",
+    "title": "ISMERETLEN KÜTYÜ V1",
+    "device": "ISMERETLEN KÜTYÜ V1",
+    "category": "ELEKTRONIKA / PROTOTÍPUS",
+    "status": "TESZTELÉS ALATT",
+    "owner": "GLITCH",
+    "excerpt": "A kapcsoló működik. Hogy pontosan mit kapcsol be, az még kérdés.",
+    "cover": "assets/lab-poster.svg",
+    "note": "„A használati útmutatót majd a második robbanás után megírom.”",
+    "paragraphs": [
+      "Ez egy bemutató projektakta. A kütyü tényleges szerepe, építése és RP-története később kerül ide.",
+      "A projekt képekkel, alkatrészlistával és fejlesztési naplóval is bővíthető."
+    ],
+    "gallery": [
+      {
+        "src": "assets/lab-poster.svg",
+        "caption": "MINTAKÉP / cserélhető saját RP-képre"
+      }
+    ],
+    "sample": true
+  },
+  {
+    "id": "mobil-muveleti-terminal",
+    "number": "002",
+    "date": "DÁTUM NINCS MEGADVA",
+    "title": "MOBIL MŰVELETI TERMINÁL",
+    "device": "FURGONOS MUNKAÁLLOMÁS",
+    "category": "KOMMUNIKÁCIÓ / MONITORING",
+    "status": "KONCEPCIÓ",
+    "owner": "GLITCH",
+    "excerpt": "Monitorok, kábelek és egy mozgó főhadiszállás. Mi baj lehet?",
+    "cover": "assets/lab-poster.svg",
+    "note": "„Ha eltűnik a Wi-Fi, legalább van négy kerekünk.”",
+    "paragraphs": [
+      "Glitch műveleti furgonjának külön projektaktája. A berendezés, a monitorok és a történet részleteit később saját RP-anyagokkal egészítjük ki.",
+      "Ez egy bemutató adatlap, nem lezajlott esemény leírása."
+    ],
+    "gallery": [
+      {
+        "src": "assets/lab-poster.svg",
+        "caption": "MINTAKÉP / műveleti terminál"
+      }
+    ],
+    "sample": true
+  },
+  {
+    "id": "jelzavar-projekt",
+    "number": "003",
+    "date": "DÁTUM NINCS MEGADVA",
+    "title": "ZAVAR A RENDSZERBEN",
+    "device": "ISMERETLEN MODUL",
+    "category": "KÍSÉRLETI / BARKÁCS",
+    "status": "ÖTLET",
+    "owner": "GLITCH",
+    "excerpt": "Egy furcsa szerkezet, amelynek még a neve is változhat.",
+    "cover": "assets/lab-poster.svg",
+    "note": "„Egyetlen gomb. Három figyelmeztetés. Nyilván megnyomom.”",
+    "paragraphs": [
+      "Helyőrző a jövőbeli kütyüprojektek számára. A valós RP-eseményeket és a szerkezet működését majd a későbbi fejlesztéskor írjuk be."
+    ],
+    "gallery": [],
+    "sample": true
+  }
+]
