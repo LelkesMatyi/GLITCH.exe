@@ -27,3 +27,11 @@ V1.7: Kiemelt akta teljes magasságú borítókép (csak CSS javítás).
 - A kezdőoldali Urbex hivatkozások az új oldalra mutatnak.
 - A `helyszin-001` csak mintatartalom, nem valódi RP-esemény.
 - A JSON-fájlok `fetch` használata miatt helyben egyszerű HTTP-szerverrel tesztelendők; Vercelen működnek.
+
+
+## v2.1 – GARAGE FILES
+- garage.html: járműarchívum és megnyitható akták.
+- garage-data.json: négy minta járműadatlap (Elegy Retro Custom, Arbiter GT Custom, Jogger, Maibatsu Manchez Scout C).
+- garage.js / garage.css: megjelenítés, galéria és stílus.
+- A járművek története és fotói szándékosan minták; cseréld őket saját RP-tartalomra.
+- A főoldali garázslinkek már az új részlegre vezetnek.

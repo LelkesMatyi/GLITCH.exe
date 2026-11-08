@@ -1,0 +1,10 @@
+/* GARAGE FILES / v2.1 */
+.garage-intro{background:radial-gradient(ellipse at 80% 20%,rgba(188,55,210,.21),transparent 56%),linear-gradient(125deg,#1a1123,#100b16 65%)}
+.garage-intro .diary-intro-stamp{transform:rotate(10deg);color:#f3b1ff;border-color:#ad57ce}
+.garage-page .diary-entry-tape{background:#8d39b7;color:#fff}
+.garage-page .diary-article-cover img{object-fit:cover}
+.garage-page .urbex-facts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:20px 0}
+.garage-page .urbex-facts>div{background:#21152a;border:1px solid #583467;padding:16px;min-width:0}
+.garage-page .urbex-facts small{display:block;color:#b892cc;font-size:11px;letter-spacing:1px;margin-bottom:6px}
+.garage-page .urbex-facts strong{overflow-wrap:anywhere;font-size:13px}
+@media(max-width:700px){.garage-page .urbex-facts{grid-template-columns:repeat(2,minmax(0,1fr))}}

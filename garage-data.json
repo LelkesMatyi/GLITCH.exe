@@ -1,0 +1,98 @@
+[
+  {
+    "id": "elegy-retro-custom",
+    "number": "001",
+    "date": "DÁTUM NINCS MEGADVA",
+    "title": "ELEGY RETRO CUSTOM",
+    "model": "ELEGY RETRO CUSTOM",
+    "category": "SPORT / RETRO TUNING",
+    "status": "PROJEKTADATLAP",
+    "owner": "GLITCH",
+    "excerpt": "Egy klasszikus japán hangulatú gép. A részletek még alakulnak.",
+    "cover": "assets/garage-poster.svg",
+    "note": "„A jó ízlés és a rossz ötletek tökéletes találkozása.”",
+    "paragraphs": [
+      "Ez a jármű Glitch garázsarchívumának egyik nyitó aktája. A tényleges RP-történet, módosítások és felszereltség később kerülnek ide.",
+      "A galériába saját játékbeli képeket lehet feltölteni. Minden járműnek külön linkje és saját aktája van."
+    ],
+    "gallery": [
+      {
+        "src": "assets/garage-poster.svg",
+        "caption": "MINTAKÉP / cserélhető saját járműfotóra"
+      }
+    ],
+    "sample": true
+  },
+  {
+    "id": "arbiter-gt-custom",
+    "number": "002",
+    "date": "DÁTUM NINCS MEGADVA",
+    "title": "ARBITER GT CUSTOM",
+    "model": "ARBITER GT CUSTOM",
+    "category": "IZOMAUTÓ",
+    "status": "PROJEKTADATLAP",
+    "owner": "GLITCH",
+    "excerpt": "Nyers erő, hangos érkezés, nulla visszafogottság.",
+    "cover": "assets/garage-poster.svg",
+    "note": "„Diszkrét? Azt a beállítást nem találtam.”",
+    "paragraphs": [
+      "Ez a jármű Glitch garázsarchívumának egyik nyitó aktája. A tényleges RP-történet, módosítások és felszereltség később kerülnek ide.",
+      "A galériába saját játékbeli képeket lehet feltölteni. Minden járműnek külön linkje és saját aktája van."
+    ],
+    "gallery": [
+      {
+        "src": "assets/garage-poster.svg",
+        "caption": "MINTAKÉP / cserélhető saját járműfotóra"
+      }
+    ],
+    "sample": true
+  },
+  {
+    "id": "jogger",
+    "number": "003",
+    "date": "DÁTUM NINCS MEGADVA",
+    "title": "JOGGER",
+    "model": "JOGGER",
+    "category": "VÁROSI / MINDENNAPOS",
+    "status": "PROJEKTADATLAP",
+    "owner": "GLITCH",
+    "excerpt": "A gép, amelynek minden napra jut egy új történet.",
+    "cover": "assets/garage-poster.svg",
+    "note": "„Nem minden járgánynak kell versenypálya.”",
+    "paragraphs": [
+      "Ez a jármű Glitch garázsarchívumának egyik nyitó aktája. A tényleges RP-történet, módosítások és felszereltség később kerülnek ide.",
+      "A galériába saját játékbeli képeket lehet feltölteni. Minden járműnek külön linkje és saját aktája van."
+    ],
+    "gallery": [
+      {
+        "src": "assets/garage-poster.svg",
+        "caption": "MINTAKÉP / cserélhető saját járműfotóra"
+      }
+    ],
+    "sample": true
+  },
+  {
+    "id": "manchez-scout-c",
+    "number": "004",
+    "date": "DÁTUM NINCS MEGADVA",
+    "title": "MAIBATSU MANCHEZ SCOUT C",
+    "model": "MAIBATSU MANCHEZ SCOUT C",
+    "category": "TEREP / MOTOR",
+    "status": "PROJEKTADATLAP",
+    "owner": "GLITCH",
+    "excerpt": "Két kerék, poros utak és túl sok kerülő.",
+    "cover": "assets/garage-poster.svg",
+    "note": "„Ha van rövidebb út, valószínűleg nem azt választom.”",
+    "paragraphs": [
+      "Ez a jármű Glitch garázsarchívumának egyik nyitó aktája. A tényleges RP-történet, módosítások és felszereltség később kerülnek ide.",
+      "A galériába saját játékbeli képeket lehet feltölteni. Minden járműnek külön linkje és saját aktája van."
+    ],
+    "gallery": [
+      {
+        "src": "assets/garage-poster.svg",
+        "caption": "MINTAKÉP / cserélhető saját járműfotóra"
+      }
+    ],
+    "sample": true
+  }
+]
