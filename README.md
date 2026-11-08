@@ -1,16 +1,7 @@
-# GLITCH.EXE v1.1 — CHAOS ARCHIVE
+GLITCH.EXE v1.2 — STREET ART HOMEPAGE
 
-Statikus, mobilbarát HTML/CSS/JavaScript oldal. A korábbi Kaito Automotive ZIP szolgált referenciaként; az eredeti projekt változatlan marad.
+A v1.1 anonim verzióra épülő látványfrissítés. A főoldal Los Santos-i sziluettet, graffitis rétegeket, matricákat és rendezett káosz megjelenést kapott. A korábbi hét részleg, a Crew lenyitható profilok és a demo szavazás változatlanul működnek.
 
-## Használat
-Nyisd meg az `index.html` fájlt böngészőben. Publikáláshoz töltsd fel a ZIP tartalmát egy új GitHub repository gyökerébe, majd importáld külön Vercel projektként (Framework Preset: Other; build command üres; output directory üres).
+Az oldal nem tartalmaz valódi személynevet, a korábbi Kaito API/webhook nincs benne.
 
-## Amit még valódi tartalomra kell cserélni
-- A hero illusztráció jelenleg CSS-sel rajzolt hangulati helykitöltő, nem végleges karakterportré.
-- Naplóbejegyzések, urbex és graffiti galéria jelenleg bemutató tartalom.
-- Crew profilok: Glitch bemutatóprofilja és bővítési hely.
-- Bad Ideas szavazás csak helyi demonstráció: nincs backend, adatbázis vagy valós összesítés.
-- Nincsenek a régi Kaito webhookok vagy API-k, és semmi nem kerül elküldésre Discordra.
-
-## Következő kör
-Végleges karakterportré, képek és Crew tagadatok feltöltése; tartalomkezelés és valódi közösségi szavazás csak külön jóváhagyással.
+GitHub: a ZIP tartalmát (nem magát a ZIP-et) töltsd fel a GLITCH.exe repository gyökerébe, majd Commit changes. A Vercel automatikusan telepíti.
