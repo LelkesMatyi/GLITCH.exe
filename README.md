@@ -18,3 +18,12 @@ V1.7: Kiemelt akta teljes magasságú borítókép (csak CSS javítás).
 - `cover`: kép elérési útja, pl. `assets/diary-poster.svg`; `gallery`: további képek és képaláírások.
 - A főoldali Kiemelt akta ugyanebből a fájlból olvassa a legfrissebb bejegyzést.
 - A 001-es akta minta, nem valódi RP-esemény.
+
+
+## v2.0 – URBEX FILES
+- `urbex.html` – önálló helyszínarchívum és megnyitható akták.
+- `urbex-data.json` – új helyszínek szerkeszthető adatai, képek és történetek.
+- `urbex.js`, `urbex.css` – megjelenítés és stílus.
+- A kezdőoldali Urbex hivatkozások az új oldalra mutatnak.
+- A `helyszin-001` csak mintatartalom, nem valódi RP-esemény.
+- A JSON-fájlok `fetch` használata miatt helyben egyszerű HTTP-szerverrel tesztelendők; Vercelen működnek.

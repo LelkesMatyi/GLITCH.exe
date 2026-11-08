@@ -1,0 +1,26 @@
+[
+  {
+    "id": "helyszin-001",
+    "number": "001",
+    "date": "DÁTUM NINCS MEGADVA",
+    "title": "AZ ELFELEDETT RAKTÁR",
+    "area": "LOS SANTOS / IPARI NEGYED",
+    "type": "ELHAGYATOTT RAKTÁR",
+    "risk": "ISMERETLEN",
+    "explorers": "GLITCH + CREW",
+    "excerpt": "„Nem volt üres. Vagy csak képzelődtem.”",
+    "cover": "assets/urbex-poster.svg",
+    "note": "„Ha a falak beszélni tudnának, valószínűleg azt mondanák: menj haza.”",
+    "paragraphs": [
+      "A városnak vannak olyan sarkai, amelyek mellett mindenki elmegy. A legtöbben észre sem veszik, hogy valaha történt ott valami.",
+      "Ez az akta egyelőre bemutató: a valódi felfedezés után itt lesznek a helyszínről készült fotók, a történet és a különös részletek."
+    ],
+    "gallery": [
+      {
+        "src": "assets/urbex-poster.svg",
+        "caption": "HELYKITÖLTŐ ILLUSZTRÁCIÓ / később saját RP-fotóra cserélhető"
+      }
+    ],
+    "sample": true
+  }
+]
