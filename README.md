@@ -51,3 +51,6 @@ V1.7: Kiemelt akta teljes magasságú borítókép (csak CSS javítás).
 - Mindháromhoz külön CSS és JS; a főoldal és a navigáció kattintható linkjei frissítve.
 - Az ötlettábla főoldali szavazása továbbra is csak demó, nem tárol közös eredményeket.
 - A JSON fájlok mintatartalmak, szabadon bővíthetők.
+
+
+v2.4: A főoldal mind a hét archívumkártyája a Glitch Diaryhoz hasonló alsó, keretezett navigációs gombot kapott.

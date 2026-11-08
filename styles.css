@@ -73,3 +73,9 @@ body:before{content:"";position:fixed;inset:0;pointer-events:none;z-index:40;opa
 .dashboard .latest.panel>.news:last-child{border-bottom:0}
 @media(max-width:850px){.dashboard .feature.panel{min-height:490px}.dashboard .latest.panel{min-height:440px}}
 @media(max-width:570px){.dashboard .feature.panel{min-height:430px}.dashboard .latest.panel>.news{min-height:110px}}
+
+/* v2.4 — egységes alsó archívumgomb minden főoldali részlegen */
+.archive-card .archive-card-button{display:inline-flex;position:relative;z-index:2;margin-top:4px;max-width:100%;text-align:center;line-height:1.15;white-space:normal;}
+.archive-card .archive-foot + .archive-card-button{margin-top:4px;}
+.archive-card .archive-card-button:hover,.archive-card .archive-card-button:focus-visible{background:#5b246c;}
+@media(max-width:570px){.archive-card .archive-card-button{font-size:16px;}}
