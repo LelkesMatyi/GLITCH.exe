@@ -1,7 +1,7 @@
-GLITCH.EXE v1.2 — STREET ART HOMEPAGE
+GLITCH.EXE v1.3 – Graffiti archive covers
 
-A v1.1 anonim verzióra épülő látványfrissítés. A főoldal Los Santos-i sziluettet, graffitis rétegeket, matricákat és rendezett káosz megjelenést kapott. A korábbi hét részleg, a Crew lenyitható profilok és a demo szavazás változatlanul működnek.
+Új illusztrált borítók mind a hét részleghez, hero graffiti, finom hover.
+A képek eredeti SVG illusztrációk, nem ingame fotók.
+Minden meglévő funkció és név nélküli megjelenés megmaradt.
 
-Az oldal nem tartalmaz valódi személynevet, a korábbi Kaito API/webhook nincs benne.
-
-GitHub: a ZIP tartalmát (nem magát a ZIP-et) töltsd fel a GLITCH.exe repository gyökerébe, majd Commit changes. A Vercel automatikusan telepíti.
+Telepítés: a ZIP teljes tartalmát töltsd fel a GLITCH.exe GitHub repository gyökerébe.
